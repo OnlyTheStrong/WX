@@ -16,7 +16,7 @@ define('LANEWECHAT_VERSION_DATE', '2014-11-05');
  */
 define("WECHAT_URL", 'http://www.zhaoqiang.info/WX/');
 define('WECHAT_TOKEN', 'hello2018');
-define('ENCODING_AES_KEY', "MqAuKoex6FyT5No0OcpRyCicThGs0P1vz4mJ2gwvvkF");
+define('ENCODING_AES_KEY', "BVuyV0uBAvonlkxOTkphqzzRm8ClhbU2u9jl6QNo5rG");
 
 /*
  * 开发者配置
