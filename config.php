@@ -14,7 +14,7 @@ define('LANEWECHAT_VERSION_DATE', '2014-11-05');
 /*
  * 服务器配置，详情请参考@link http://mp.weixin.qq.com/wiki/index.php?title=接入指南
  */
-define("WECHAT_URL", 'http://www.zhaoqiang.info/WX/');
+define("WECHAT_URL", 'http://www.zhaoqiang.info/WX/wechat.php');
 define('WECHAT_TOKEN', 'hello2018');
 define('ENCODING_AES_KEY', "BVuyV0uBAvonlkxOTkphqzzRm8ClhbU2u9jl6QNo5rG");
 
